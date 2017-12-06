@@ -1,0 +1,18 @@
+{
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "editor.fontSize": 16,
+    "workbench.sideBar.location": "left",
+    "window.menuBarVisibility": "default",
+    "[javascript]": {
+        
+    },
+    "workbench.colorTheme": "Dracula",
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.iconTheme": "simple-icons",
+    "php.validate.executablePath":"C:/phpStudy/php/php-7.0.12-nts/php.exe",
+    "php.executablePath": "C:/phpStudy/php/php-7.0.12-nts/php.exe",
+    "editor.formatOnPaste": false,
+    "editor.formatOnSave": false,
+    "explorer.confirmDragAndDrop": false,
+}
